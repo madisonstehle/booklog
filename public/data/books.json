@@ -1,0 +1,58 @@
+{
+    "books":
+    {
+        "current":
+        [
+            {
+                "title": "title1",
+                "author":"author"
+            },
+            {
+                "title": "title2",
+                "author":"person"
+            },
+            {
+                "title": "title3",
+                "author":"writer"
+            }
+        ],
+        "toRead":
+        [
+            {
+                "title": "title1",
+                "author":"author"
+            },
+            {
+                "title": "title2",
+                "author":"person"
+            },
+            {
+                "title": "title3",
+                "author":"writer"
+            },
+            {
+                "title": "title4",
+                "author":"human"
+            }
+        ],
+        "read":
+        [
+            {
+                "title": "title1",
+                "author":"author"
+            },
+            {
+                "title": "title2",
+                "author":"person"
+            },
+            {
+                "title": "title3",
+                "author":"writer"
+            },
+            {
+                "title": "title4",
+                "author":"human"
+            }
+        ]
+    }
+}
